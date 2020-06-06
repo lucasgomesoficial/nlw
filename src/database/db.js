@@ -59,7 +59,7 @@ module.exports = db
     // db.run(query, values, afterInsertData)
 
     // 3.consultar os dados
-    // db.all(`SELECT name FROM places`, function(err, rows) {
+    // db.all(`SELECT * FROM places`, function(err, rows) {
     //     if(err) {
     //         return console.log(err)
     //     }
@@ -69,7 +69,7 @@ module.exports = db
     // })
 
     // 4.deletar os dados
-    // db.run(`DELETE FROM places WHERE id = ?`, [1], function(err) {
+    // db.run(`DELETE FROM places WHERE id = ?`, [7], function(err) {
     //     if(err) {
     //         return console.log(err)
     //     }

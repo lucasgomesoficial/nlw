@@ -84,3 +84,15 @@
     color: white;
     margin-top: 32px;
 }
+
+/* Isto é para o modal point fail */
+#modal.fail .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#modal.fail h1 {
+    color: white;
+    margin-top: 10px;
+}

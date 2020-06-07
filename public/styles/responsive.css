@@ -1,5 +1,6 @@
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
     #page-home {
+        background: #f1f0f6;
         background-position: 70vw;
     }
     
@@ -42,8 +43,9 @@
     }
 }
 
-@media (max-height: 760px) {
+
+@media (max-height: 720px) {
     #page-home {
-        background-position-y: 200px;
+        background-position-y: 150px;
     }
 }

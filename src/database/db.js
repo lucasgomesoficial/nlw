@@ -69,11 +69,20 @@ module.exports = db
     // })
 
     // 4.deletar os dados
-    // db.run(`DELETE FROM places WHERE id = ?`, [7], function(err) {
+    // db.run(`DELETE FROM places WHERE id = ?`, [12], function(err) {
     //     if(err) {
     //         return console.log(err)
     //     }
 
     //     console.log("Registro deletado com sucesso!")
+    // })
+
+    // 5.alterar dados
+    // db.run(`UPDATE places SET address2 = '115' WHERE id = ?`, [11], function(err) {
+    //     if(err) {
+    //         return console.log(err)
+    //     }
+
+    //     console.log("Registro alterado!")
     // })
 // })

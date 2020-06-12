@@ -2,9 +2,9 @@
  Projecto realizado rocketseat
 
 # Tecnologias usadas
-✔️ HTML5
-✔️ CSS3
-✔️ JavaScript
+HTML5
+CSS3
+JavaScript
 ✔️ Express
 ✔️ Nodejs
 ✔️ SQLite 3

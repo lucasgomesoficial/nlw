@@ -1,5 +1,5 @@
 ## Next Level Week #NLW
- Projecto realizado rocketseat
+ Projecto realizado pela rocketseat
 
 # Tecnologias usadas
 - HTML5<br>
